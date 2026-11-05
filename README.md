@@ -263,6 +263,10 @@ docker-compose up -d
 | 管理端 | http://localhost:4000 |
 | API 文档 | http://localhost:8080/swagger/index.html |
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/FlecBlog/)
+
 ## 从源码运行
 
 ### 前置要求
